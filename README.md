@@ -9,4 +9,3 @@ This project is a project that allows you to send FCM messages within the app.
 
 ## MainActivity.java
 - Recevie input message and push message
-
